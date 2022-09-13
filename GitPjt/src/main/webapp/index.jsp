@@ -10,6 +10,6 @@
 	<h1></h1>
 	<a href="a.jsp">a</a><br/>
 	<a href="b.jsp">b</a><br/>
-	<a href="c.jsp">c</a><br/>
+	<a href="c.jsp">c.</a><br/>
 </body>
 </html>
