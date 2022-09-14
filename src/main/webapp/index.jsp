@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a href="a.jsp">aaa</a>
-	<a href="b.jsp">bbb</a>
-	<a href="c.jsp">ccc</a>
+	<a href="a.jsp">a</a>
+	<a href="b.jsp">b</a>
+	<a href="c.jsp">c</a>
 </body>
 </html>
